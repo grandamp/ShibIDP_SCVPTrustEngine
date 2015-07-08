@@ -13,7 +13,7 @@
 	<bean id="shibboleth.authn.X509.externalAuthnPath" class="java.lang.String"
 		c:_0="contextRelative:x509-prompt.jsp" />
 
-	<!-- Custom trust engine for InCommon assurance -->
+	<!-- Custom trust engine to use an SCVP service -->
 	<bean id="shibboleth.authn.X509.TrustEngine" class="org.keysupport.shibboleth.idp.x509.SCVPTrustEngine"
 		c:policyOids="#{{'2.16.840.1.101.3.2.1.3.13'}}" c:serverURL="http://scvp.foo/"/>
 

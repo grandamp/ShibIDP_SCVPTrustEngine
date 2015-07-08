@@ -102,5 +102,27 @@
 	<classpathentry kind="lib" path="/opt/shibboleth-idp/webapp/WEB-INF/lib/xml-apis-1.0.b2.jar"/>
 	<classpathentry kind="lib" path="/opt/shibboleth-idp/webapp/WEB-INF/lib/xmlsec-2.0.3.jar"/>
 	<classpathentry kind="lib" path="/opt/shibboleth-idp/webapp/WEB-INF/lib/SCVPAPI.jar"/>
+	<classpathentry kind="lib" path="/app/install/myinstalls/apache-tomcat-7.0.62/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="/app/install/myinstalls/apache-tomcat-7.0.62/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="/app/install/myinstalls/apache-tomcat-7.0.62/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="/app/install/myinstalls/apache-tomcat-7.0.62/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="/app/install/myinstalls/apache-tomcat-7.0.62/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="/app/install/myinstalls/apache-tomcat-7.0.62/lib/ecj-4.4.2.jar"/>
+	<classpathentry kind="lib" path="/app/install/myinstalls/apache-tomcat-7.0.62/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="/app/install/myinstalls/apache-tomcat-7.0.62/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="/app/install/myinstalls/apache-tomcat-7.0.62/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="/app/install/myinstalls/apache-tomcat-7.0.62/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="/app/install/myinstalls/apache-tomcat-7.0.62/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="/app/install/myinstalls/apache-tomcat-7.0.62/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/app/install/myinstalls/apache-tomcat-7.0.62/lib/tomcat7-websocket.jar"/>
+	<classpathentry kind="lib" path="/app/install/myinstalls/apache-tomcat-7.0.62/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="/app/install/myinstalls/apache-tomcat-7.0.62/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="/app/install/myinstalls/apache-tomcat-7.0.62/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="/app/install/myinstalls/apache-tomcat-7.0.62/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="/app/install/myinstalls/apache-tomcat-7.0.62/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="/app/install/myinstalls/apache-tomcat-7.0.62/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="/app/install/myinstalls/apache-tomcat-7.0.62/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="/app/install/myinstalls/apache-tomcat-7.0.62/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="/app/install/myinstalls/apache-tomcat-7.0.62/lib/websocket-api.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
